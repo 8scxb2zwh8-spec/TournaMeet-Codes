@@ -93,6 +93,7 @@ public class Friends extends javax.swing.JFrame {
         jLabel4.setText("jLabel4");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setUndecorated(true);
 
         jPanel1.setBackground(new java.awt.Color(255, 102, 0));
         jPanel1.setPreferredSize(new java.awt.Dimension(250, 500));
@@ -385,6 +386,7 @@ public class Friends extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void Accept1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Accept1ActionPerformed
