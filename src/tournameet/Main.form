@@ -295,6 +295,9 @@
               <Border info="null"/>
             </Property>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
@@ -410,6 +413,9 @@
               <Border info="null"/>
             </Property>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton15ActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JButton" name="jButton16">
           <Properties>
@@ -426,6 +432,9 @@
               <Border info="null"/>
             </Property>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton16ActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JButton" name="jButton17">
           <Properties>
@@ -439,6 +448,9 @@
               <Border info="null"/>
             </Property>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton17ActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JButton" name="jButton18">
           <Properties>
@@ -452,6 +464,9 @@
               <Border info="null"/>
             </Property>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton18ActionPerformed"/>
+          </Events>
         </Component>
       </SubComponents>
     </Container>
